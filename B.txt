@@ -1,1 +1,2 @@
 Hello from B
+"B edited on feature" 
